@@ -1,0 +1,17 @@
+
+.hero2{
+    display: flex;
+    background-image: url("../assets/bghero2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logoO{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.hero2 .logo{
+
+  object-fit: contain;
+}
